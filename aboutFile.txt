@@ -1,0 +1,2 @@
+# Java Program for Practice
+This repo is for save my practice java code file.
